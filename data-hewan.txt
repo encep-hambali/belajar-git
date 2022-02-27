@@ -1,3 +1,4 @@
 1. sapi
 2. kerbau
 3. ayam
+4. kucing
