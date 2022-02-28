@@ -3,3 +3,4 @@
 3. ayam
 4. kucing
 5. domba
+6. kita tambah hewan air
