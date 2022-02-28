@@ -1,4 +1,8 @@
 1. buaya
 2. lumba-lumba
 3. ikan cupang
+<<<<<<< HEAD
 4. ikan paus
+=======
+4. ikan hiu
+>>>>>>> dev
