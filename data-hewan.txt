@@ -2,3 +2,4 @@
 2. kerbau
 3. ayam
 4. kucing
+5. domba
